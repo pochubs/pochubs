@@ -21,11 +21,11 @@ git clone https://github.com/top-think/thinkphp.git /var/www/tp3
 
 | ThinkPHP3                                                    | ThinkPHP5                                                    |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [ThinkPHP3.2.3_缓存函数设计缺陷可导致Getshell](ThinkPHP.md#ThinkPHP3.2.3_缓存函数设计缺陷可导致Getshell) | [ThinkPHP5_SQL注入漏洞&&敏感信息泄露](ThinkPHP.md#ThinkPHP5_SQL注入漏洞&&敏感信息泄露) |
-| [ThinkPHP3.2.3_最新版update注入漏洞](ThinkPHP.md#ThinkPHP3.2.3_最新版update注入漏洞) | [ThinkPHP5.0.10-3.2.3_缓存函数设计缺陷可导致Getshell ](ThinkPHP.md#ThinkPHP5.0.10-3.2.3_缓存函数设计缺陷可导致Getshell ) |
-| [ThinkPHP3.2.X_find_select_delete注入](ThinkPHP.md#ThinkPHP3.2.X_find_select_delete注入) | [ThinkPHP框架5.0.X_sql注入漏洞分析](ThinkPHP.md#ThinkPHP框架5.0.X_sql注入漏洞分析) |
-| [ThinkPHP3.X_order_by注入漏洞](ThinkPHP.md#ThinkPHP3.X_order_by注入漏洞) | [ThinkPHP5.X_order_by注入漏洞](ThinkPHP5.X_order_by注入漏洞) |
-|                                                              | [ThinkPHP5.X_远程代码执行](ThinkPHP5.X_远程代码执行) |
+| [ThinkPHP3.2.3_缓存函数设计缺陷可导致Getshell](ThinkPHP.md#thinkphp3.2.3_缓存函数设计缺陷可导致getshell) | [ThinkPHP5_SQL注入漏洞&&敏感信息泄露](ThinkPHP.md#thinkphp5_sql注入漏洞&&敏感信息泄露) |
+| [ThinkPHP3.2.3_最新版update注入漏洞](ThinkPHP.md#thinkphp3.2.3_最新版update注入漏洞) | [ThinkPHP5.0.10-3.2.3_缓存函数设计缺陷可导致Getshell ](ThinkPHP.md#thinkphp5.0.10-3.2.3_缓存函数设计缺陷可导致getshell ) |
+| [ThinkPHP3.2.X_find_select_delete注入](ThinkPHP.md#thinkphp3.2.x_find_select_delete注入) | [ThinkPHP框架5.0.X_sql注入漏洞分析](ThinkPHP.md#thinkphp框架5.0.X_sql注入漏洞分析) |
+| [ThinkPHP3.X_order_by注入漏洞](ThinkPHP.md#thinkphp3.x_order_by注入漏洞) | [ThinkPHP5.X_order_by注入漏洞](ThinkPHP.md#thinkphp5.x_order_by注入漏洞) |
+|                                                              | [ThinkPHP5.X_远程代码执行](ThinkPHP.md#thinkphp5.x_远程代码执行) |
 
 ### WordPress
 
