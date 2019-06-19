@@ -86,7 +86,7 @@
 >
 >结果
 >
->![20170703.png](images/ThinkPHP/2017-07-03.png)
+>![20170703.png](image/ThinkPHP/2017-07-03.png)
 
 #### ThinkPHP5.0.10-3.2.3_缓存函数设计缺陷可导致Getshell 
 
@@ -128,11 +128,11 @@
   >
   >结果
   >
-  >![img](images/ThinkPHP/2017-08-09-1.png)
+  >![img](image/ThinkPHP/2017-08-09-1.png)
   >
-  >![img](images/ThinkPHP/2017-08-09-2.png)
+  >![img](image/ThinkPHP/2017-08-09-2.png)
   >
-  >![img](images/ThinkPHP/2017-08-09-3.png)
+  >![img](image/ThinkPHP/2017-08-09-3.png)
   >
   >其中文件路径和名称是 b0+68931cc450442b63f5b3d276ea4297 而
   >
@@ -170,7 +170,7 @@
 >
 >结果
 >
->![img](images/ThinkPHP/2018-04-09.png)
+>![img](image/ThinkPHP/2018-04-09.png)
 
 #### ThinkPHP5.X_order_by注入漏洞
 
@@ -205,7 +205,7 @@
 >
 >结果
 >
->![img](images/ThinkPHP/2018-08-23.png)
+>![img](image/ThinkPHP/2018-08-23.png)
 
 #### ThinkPHP5.X_远程代码执行
 
@@ -237,5 +237,5 @@
 >
 >结果
 >
->![img](images/ThinkPHP/2018-12-10.png)
+>![img](image/ThinkPHP/2018-12-10.png)
 
